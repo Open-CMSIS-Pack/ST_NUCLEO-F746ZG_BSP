@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/github/v/release/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP/releases/latest)
+[![Version](https://img.shields.io/github/v/release/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP?label=Release)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP/releases/latest)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP/blob/main/LICENSE-Apache-2.0)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP/blob/main/LICENSE-BSD-3-Clause)
 [![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.github/workflows/Test-Examples.yml)
